@@ -43,7 +43,7 @@ int main(void)
 		greaterNumber = numberThree;
 	}
 
-	printf("El mayor de los numeros ingresados es %d: ",greaterNumber);
+	printf("El mayor de los numeros ingresados es: %d",greaterNumber);
 
 }
 

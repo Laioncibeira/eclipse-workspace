@@ -13,7 +13,5 @@ OBJS :=
 
 # Every subdirectory with source files must be described here
 SUBDIRS := \
-src/subject1 \
 src/subject2 \
-src/tema1 \
 
