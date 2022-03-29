@@ -1,8 +1,9 @@
 /*
- * ejercicio1_1.c
+ * subject1_1.c
  *
  *  Created on: 28 mar. 2022
- *      Author: laion
+ *      Author: Fernando León Cibeira
+ *      Division: 1F
  *
  *  Request: Ingresar dos números enteros, sumarlos y mostrar el resultado.
  *
@@ -31,5 +32,6 @@ int main(void)
 
 	printf("La suma entre %d y %d da como resultado %d",numberOne,numberTwo,sum);
 
+	return 0;
 }
 

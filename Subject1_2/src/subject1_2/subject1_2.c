@@ -1,8 +1,9 @@
 /*
- * ejercicio1_2.c
+ * subject1_2.c
  *
  *  Created on: 28 mar. 2022
- *      Author: laion
+ *      Author: Fernando León Cibeira
+ *      Division: 1F
  *
  *  Request: ingresar 3 números y mostrar cuál de los tres es el mayor.
  *
@@ -45,5 +46,6 @@ int main(void)
 
 	printf("El mayor de los numeros ingresados es: %d",greaterNumber);
 
+	return 0;
 }
 
